@@ -1,4 +1,4 @@
-[View this proyect in English](https://github.com/BorjaBallesteros/Portfolio-data-analytics-en)
+[View this proyect in English](https://github.com/BorjaBallesteros/1.JobRotationAnalysis_en)
 
 ## Análisis y predicción de rotación laboral
 
